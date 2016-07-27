@@ -1,0 +1,84 @@
+{
+    "legends": [
+                {
+                "name": "Magnus Carlsen",
+                "rating": 2882
+                },
+                {
+                "name": "Gary Kasparov",
+                "rating": 2851
+                },
+                {
+                "name": "Fabiano Caruna",
+                "rating": 2844
+                },
+                {
+                "name": "Levon Aronian",
+                "rating": 2830
+                },
+                {
+                "name": "Vishwanathan Anand",
+                "rating": 2817
+                },
+                {
+                "name": "Veselin Topalov",
+                "rating": 2816
+                },
+                {
+                "name": "Hikaru Nakamura",
+                "rating": 2816
+                },
+                {
+                "name": "Vladimir Kramnik",
+                "rating": 2812
+                },
+                {
+                "name": "Alexander Grischuk",
+                "rating": 2810
+                },
+                {
+                "name": "Anish Giri",
+                "rating": 2798
+                },
+                {
+                "name": "Maxime Vachier-lag",
+                "rating": 2798
+                },
+                {
+                "name": "Teimour Radjabov",
+                "rating": 2793
+                },
+                {
+                "name": "Alexander Morozevi",
+                "rating": 2788
+                },
+                {
+                "name": "Sergey Karjakin",
+                "rating": 2788
+                },
+                {
+                "name": "Wesley So",
+                "rating": 2788
+                },
+                {
+                "name": "Vassily Ivanchuk",
+                "rating": 2787
+                },
+                {
+                "name": "Bobby Fisher",
+                "rating": 2785
+                },
+                {
+                "name": "Ding Liren",
+                "rating": 2783
+                },
+                {
+                "name": "Anatoly Karpov",
+                "rating": 2780
+                },
+                {
+                "name": "Boris Gelfand",
+                "rating": 2777
+                }
+                ]
+}
